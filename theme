@@ -1,0 +1,44 @@
+##############################################################################
+#
+# yellow/orange by repsaj_matrix
+#
+##############################################################################
+colordef red = 1000 651 0	# is orange
+colordef yellow = 1000 1000 0
+
+
+background           = yellow   black   normal
+frame                = black    black   normal
+window_title         = red      black   normal
+directory            = yellow   black   normal
+selected_directory   = black    red     normal
+playlist             = yellow   black   normal
+selected_playlist    = black    red     normal
+file                 = yellow   black   normal
+selected_file        = black    red     normal
+marked_file          = yellow   black   normal
+marked_selected_file = black    red	normal
+info                 = yellow   black   normal
+selected_info        = black    red     normal
+marked_info          = yellow   black   normal
+marked_selected_info = black    red     normal
+status               = black    black   normal
+title                = yellow	black   normal
+state                = red	black   normal
+current_time         = red	black   normal
+time_left            = red	black   normal
+total_time           = red	black   normal
+time_total_frames    = red      black   normal
+sound_parameters     = red      black   normal
+legend               = red      black   normal
+disabled             = yellow   black   normal
+enabled              = red      black   normal
+empty_mixer_bar      = black    black   normal
+filled_mixer_bar     = black    black   normal
+empty_time_bar       = black    yellow  normal
+filled_time_bar      = black    red     normal
+entry                = black    red     normal
+entry_title          = black    yellow  normal
+error                = red      black   bold
+message              = yellow   black   bold
+plist_time           = black    black   normal
